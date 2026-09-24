@@ -4,10 +4,10 @@ Script to generate graphs and plots associated with the paper "30 years of NASA 
 This script is in a jupyter notebook, allowing you to check the plots I originally got from my script and used in the associated paper.
 To run it on your machine, please follow these steps :
 1) Create a new python virtual environment in your terminal : python -m venv name_your_virtual_environment
-2) Activate your newly created virtual environment : source name_your_virtual_environment/bin/activate (N.B.: "/" must be replaced by "\" on Windows)
+2) Activate your newly created virtual environment : source name_your_virtual_environment/bin/activate (N.B.: "/" must be replaced by antislash on Windows)
 3) Install the required dependencies : pip install -r requirements.txt
 
-All the digitized spectra and codes for creating the 2D maps for classification and clustering are available in a Zenodo archive accessible here : ADD LINK TO ZENODO ARCHIVE ONCE IT IS READY
+All the digitized spectra and codes for creating the 2D maps for classification and clustering are available in a Zenodo archive accessible here : 10.5281/zenodo.22256697
 The original PDF files and their full preprocessing are available in the folder "Data_all" (14 GB)
 The digitized version of the spectra (CSV files) after preprocessing are available in the folder "Data_csv" (2 GB)
 
